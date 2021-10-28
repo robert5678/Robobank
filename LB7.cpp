@@ -27,5 +27,6 @@ int main()
 		cout << setw(10) << "x= " << x << setw(10) << "y= " <<setprecision(3)<< y << endl;
 		x += h;
 	} while (x <= max);
+	cout << "Hello";
 	return 0;
 }
