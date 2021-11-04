@@ -28,5 +28,5 @@ int main()
 		x += h;
 	} while (x <= max);
 	cout << "Hello world";
-	return 0;
+	return 0;// coment
 }
