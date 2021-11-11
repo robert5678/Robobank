@@ -28,5 +28,6 @@ int main()
 		x += h;
 	} while (x <= max);
 	cout << "Hello world";
+	cout << "Privet"<< endl;
 	return 0;// coment
 }
